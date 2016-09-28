@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BirthDayProvider/BirthDayProvider.iml" filepath="$PROJECT_DIR$/BirthDayProvider/BirthDayProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactList/ContactList.iml" filepath="$PROJECT_DIR$/ContactList/ContactList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProvider.iml" filepath="$PROJECT_DIR$/ContentProvider.iml" />
+    </modules>
+  </component>
+</project>
